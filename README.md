@@ -1,4 +1,10 @@
-## Hi there 👋
+## boas vindas ao meu perfil
+meu nome e leticia
+estou estudando no alura
+estou desenvolvendo na limguagem java script 
+utilizo este espaço  para minha organizaçao e compartilhamento dos meus projetos desenvolvidos 
+voce pode entra em contato comigo 
+@leticia.matsunaga@escola.pr.gov.br
 
 <!--
 **leticia01102008/leticia01102008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
